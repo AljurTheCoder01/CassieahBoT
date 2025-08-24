@@ -10,7 +10,6 @@ export const meta = {
   category: "fun",
   noPrefix: false,
   permissions: [0],
-  botAdmin: false,
   supported: "^1.0.0"
 };
 export async function entry({ api, event, args, output }) {
